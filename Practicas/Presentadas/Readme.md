@@ -12,3 +12,6 @@
 
 4. Modulo 4. _Introducción a HTTP y a los Servidores Web; Introducción a express y al Middleware Static; Introducción a REST; Aplicaciones express.js y Composición de Middlewares; Formularios GET y POST; Parámetros Ocultos_
 >[P2P_Mod04_Obligatorio.md](./P2P_Mod04_Obligatorio.md)
+
+5. Modulo 5. _Gestión de versiones de proyectos con git y GITHUB; Proyecto, Espacio de Trabajo y Versiones (Commit); Arboles y Ramas de un proyecto; Repositorios Remoto y colaboración a través de GITHUB_
+>[P2P_Mod05_Obligatorio.md](./P2P_Mod05_Obligatorio.md)
